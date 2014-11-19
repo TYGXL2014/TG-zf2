@@ -21,6 +21,8 @@
  define('APP_DEBUG', true); //开启调试
  //require_once 'core/ThinkPHP.php';
  
+ phpinfo();
+ 
  
  
  
